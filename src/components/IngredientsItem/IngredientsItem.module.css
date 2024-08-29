@@ -1,0 +1,15 @@
+.container {
+    width: 272px;
+    height: 208px;
+}
+
+
+.price {
+    display: flex;
+    justify-content: center;
+}
+
+
+.count {
+    position: relative;
+}

@@ -1,0 +1,10 @@
+.container {
+    margin-left: 150px;
+    width: 600px;
+    /*height: 712px;*/
+}
+
+.items {
+    display: flex;
+    flex-wrap: wrap;
+}
