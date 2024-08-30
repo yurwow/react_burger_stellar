@@ -10,7 +10,6 @@ const HeaderItem = ({component, text}) => {
                 </p>
             </a>
         </>
-
     );
 };
 
